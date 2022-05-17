@@ -1,0 +1,4 @@
+employee_id,employee_name,employee_position,employee_department,employee_email,employee_password,isadmin
+113,james,DEV,DEV,james@email.com,$2b$10$A1pAir3Ao.Xldw4ik82vOOjypFmoV3ESXS36PMJsHJHUQEdKYvevm,0
+126,sarah,QA,QA,sarah@live.com,$2b$10$Co9JKf3bkUQwl6/LuijNBuAPr0AMMs5.xYreOb.9mFt3gjwiBdTIe,0
+127,Dilshan,Admin,Admin,dilshandanushka@live.com,$2b$10$DtZSOaGKXbTDzf1G87cAeOpwjcK09kkuRJpL6PpChAcQgl/1aw1ya,1
